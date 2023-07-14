@@ -1,0 +1,37 @@
+.image{
+    height: 500px;
+    width: 500px;
+    margin-left: 600px;
+    margin-top: 100px;
+    position: fixed;
+}
+.eye1{
+    width: 48px;
+    height: 40px;
+    background-color: rgba(255, 255, 255, 0.781);
+    /* box-shadow: 1px 1px 1px 1px rgb(245, 241, 241); */
+    margin-left: 787px;
+    margin-top: 250px;
+    border-radius: 100px 100px 100px 100px;
+    position: fixed;
+}
+.eye2{
+    width: 48px;
+    height: 40px;
+    background-color: rgba(255, 255, 255, 0.781);
+    box-shadow: 1px 1px 1px 1px rgb(245, 241, 241);
+    margin-left: 878px;
+    margin-top: 259px;
+    border-radius: 100px 100px 100px 100px;
+    position: fixed;
+}
+.ball{
+    width: 18px;
+    height: 18px;
+    background-color: rgb(15, 15, 15);
+    box-shadow: 3px 3px 3px 3px  eye cornsilk;
+    margin-top: -1px;
+    margin-left: - px;
+    border-radius: 100%;
+    position: absolute;
+}
